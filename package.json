@@ -17,6 +17,11 @@
   "homepage": "https://github.com/yoshiyasu-ogino/js-runtime-speed-bench#readme",
   "devDependencies": {
     "@playwright/test": "^1.57.0",
-    "@types/node": "^25.0.0"
+    "@types/node": "^25.0.0",
+    "allure-commandline": "^2.36.0",
+    "allure-playwright": "^3.4.3",
+    "dotenv": "^17.2.3",
+    "prettier": "^3.7.4",
+    "vitest": "^4.0.15"
   }
 }
